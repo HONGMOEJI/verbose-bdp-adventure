@@ -38,6 +38,13 @@
 [데이터 다운로드](https://drive.google.com/drive/folders/1tInRKcn0RbFu9oZyvDHfzTM2vRJT7FZq?usp=sharing)
 
 ---
+**사용한 데이터셋에 대해서...**
+
+[Korean Online That-gul Emotions](https://github.com/searle-j/KOTE)
+
+12개의 도메인에 대하여, 50,000건의 댓글 데이터에 대해 한 건당 최소 다섯 명 이상의 인원이 감정을 라벨링
+
+---
 
 ## ⚙️ 실행 환경 및 주요 라이브러리
 
